@@ -14,7 +14,7 @@ const requiredTabs = [
   'PES University',
   'Software Engineering',
   'CI/CD Pipeline',
-  'Instructable'
+  'Instructable',
   'Tab to fail the pipeline'
 ];
 
