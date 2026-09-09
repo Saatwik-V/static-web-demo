@@ -15,6 +15,7 @@ const requiredTabs = [
   'Software Engineering',
   'CI/CD Pipeline',
   'Instructable'
+  'Tab to fail the pipeline'
 ];
 
 requiredTabs.forEach(tabName => {
