@@ -1,3 +1,8 @@
+Name: V.Saatwik
+SRN:PES1UG24CS509
+
+//Name and Srn given for submission purposes as this fork is the submission for lab 3
+
 # 🌐 Automated Static Website with CI/CD
 
 ![Deploy Static Website](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-blue?logo=github-actions)
